@@ -3,7 +3,10 @@ Modelo de curriculum gerado por IA dedicado ao workshop de Git e Github ministra
 
 
 ### Contém 
+- Dados Pessoais
 - Objetivo profissional
-- Experiência
-- Conhecimentos
-
+- Habilidades
+- Educação
+- Treinamentos e cursos
+- Projetos Pesoais
+- Referências
